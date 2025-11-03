@@ -1,0 +1,14 @@
+pandas
+yfinance
+numpy
+matplotlib
+prophet
+streamlit
+requests
+plotly
+fpdf
+alpha_vantage
+iexfinance
+newsapi-python
+ccxt  # for crypto exchanges
+forex-python  # for forex
